@@ -1,2 +1,3 @@
-# Tasks
-I made portfolio &amp; replica of Netflix website
+# Personal portfolio
+I built a personal portfolio using HTML and CSS 
+#bharatIntern #web developer #internship
